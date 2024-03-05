@@ -1,3 +1,1 @@
-
-
-print('Si yo ya sabia')
+print ('Ya sé usar github')
